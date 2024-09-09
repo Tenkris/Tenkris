@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenkris&label=Profile%20views&color=0e75b6&style=flat" alt="tenkris" /> </p>
 
+## About Me
+
+I am a dedicated and passionate Software Engineer with a strong background in developing innovative solutions. I have a keen interest in learning new technologies and applying them to solve real-world problems. My journey in software development has equipped me with a diverse skill set, enabling me to work on a variety of projects across different domains.
+
 - 👨‍💻 All of my projects are available at [**my portfolio website**](https://portfolio-website-two-black-74.vercel.app/).
 
 - 📫 How to reach me **nineten609@gmail.com**
