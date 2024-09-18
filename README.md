@@ -5,11 +5,11 @@
 
 ## About Me
 
-- 👨‍💻 All of my projects are available at [**my portfolio website**](https://portfolio-website-two-black-74.vercel.app/).
+- 👨‍💻 All of my projects are available at [**my portfolio website**](https://portfolio.tenkr.dev/).
 
 - 📫 How to reach me **nineten609@gmail.com**
 
-- 📄 Know about my experiences [**here**](https://portfolio-website-two-black-74.vercel.app/resume).
+- 📄 Know about my experiences [**here**](https://portfolio.tenkr.dev/resume).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
